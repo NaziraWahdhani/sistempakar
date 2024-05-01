@@ -1,0 +1,76 @@
+.hasil-konsultasi .hasil-konsultasi-1 {
+  margin: 0 0 24px 4.7px;
+  display: inline-block;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 40px;
+  color: #000000;
+}
+.hasil-konsultasi .container {
+  margin-bottom: 38px;
+  display: inline-block;
+  align-self: flex-end;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.hasil-konsultasi .id-pasien-nama-pasien-umur-tinggi-badan-berat-badan {
+  margin-bottom: 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.hasil-konsultasi .gejala-yang-anda-derita {
+  margin-bottom: 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.hasil-konsultasi .menurunya-napsu-makan-kesulitan-mengunyah-badan-terlihat-kurus {
+  margin-bottom: 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.hasil-konsultasi .dari-gejala-tersebut-anda-menderita-cukup-tingkat-gizi-dengan-tingkat-keyakinan-60 {
+  margin-bottom: 35px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.hasil-konsultasi .solusi {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 18px;
+  color: #000000;
+}
+.hasil-konsultasi {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 65px 79.9px 537px 62px;
+  width: 1280px;
+  box-sizing: border-box;
+}

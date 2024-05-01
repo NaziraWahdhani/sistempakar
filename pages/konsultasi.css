@@ -1,0 +1,115 @@
+.konsultasi .konsultasi-1 {
+  margin: 0 3.4px 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 40px;
+  color: #000000;
+}
+.konsultasi .line-1 {
+  background: #000000;
+  margin-bottom: 77px;
+  width: 1352px;
+  height: 3px;
+}
+.konsultasi .id-pasien-nama-pasien-umur {
+  margin: 0 62px 64px 62px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 17px;
+  color: #000000;
+}
+.konsultasi .gejala {
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 35px;
+  color: #000000;
+}
+.konsultasi .data-pilih-3 {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.konsultasi .container {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 42px 14px 60px;
+  display: flex;
+  padding: 3px 17.4px 0 0;
+  width: 825px;
+  box-sizing: border-box;
+}
+.konsultasi .hasil {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.konsultasi .container-2 {
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 14px;
+  display: flex;
+  padding: 3px 0.9px 0 0;
+  width: 101px;
+  box-sizing: border-box;
+}
+.konsultasi .menurutnnya-napsu-makan-0003-kesulitan-mengunyah-0004-badan-terlihat-kurus {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.konsultasi .container-1 {
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 42px 43px 60px;
+  padding: 13px 5px 131px 5px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.konsultasi .diagnosa {
+  overflow-wrap: break-word;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 17px;
+  color: #000000;
+}
+.konsultasi .container-3 {
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 18px;
+  display: flex;
+  padding: 0 9.9px 3px 9px;
+  box-sizing: border-box;
+}
+.konsultasi .container-4 {
+  background: #D9D9D9;
+  position: relative;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 16px 23px 43px 23px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.konsultasi {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 69px 0 307px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}
